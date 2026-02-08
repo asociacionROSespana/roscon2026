@@ -1,7 +1,5 @@
----
----
 <!DOCTYPE html>
-<html dir="ltr" lang="en">
+<html dir="ltr" lang="es">
 <head>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -15,36 +13,16 @@
   <link href='//fonts.googleapis.com/css?family=Raleway:400,300,700' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" href="combo.css">
   <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
-  {% if site.favicon %}<link rel="shortcut icon" href="{{ site.favicon }}" type="image/x-icon">{% endif %}
-	{% if site.touch_icon %}<link rel="apple-touch-icon" href="{{ site.touch_icon }}">{% endif %}
+  <!--{% if site.favicon %}<link rel="shortcut icon" href="{{ site.favicon }}" type="image/x-icon">{% endif %}--> <!-- commenting as x-icon does not exist in image -->
+	<!--{% if site.touch_icon %}<link rel="apple-touch-icon" href="{{ site.touch_icon }}">{% endif %}--> <!--commenting as apple touch icon does not exist in image -->
+  
 </head>
 <body>
   <div id="main">
 
     <h1 style="text-align: center;">ROSCon Espa&ntilde;a</h1>
-    <p style="text-align: center;"><a href="ROSConES2025.html"><img src="img/RosConES2025.jpg" alt="" width="500"/></a></p>
-    <p style="text-align: center;">ROSCon España 2025</p>
-
-    <!--<div style="width:50%;text-align:center;">
-      <center><a href="ROSCon2023Madrid.html"> <img src="img/roscon.jpg"> </a></center>
-    </div>-->
-    
-    <!--
-    <nav><ul>
-      {% for node in site.posts reversed %}
-        {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
-        <li class="p-{{id}}"><a href="#{{id}}">{{node.title}}</a></li>
-      {% endfor %}
-    </ul></nav>
--->
-
-    <!--
-    <div id="footer" class="section text-white">
-      <div class="container">
-        {% capture foottext %} {% include footer.md %} {% endcapture %}
-        {{ foottext | markdownify }}
-      </div>
-    </div>-->
+    <p style="text-align: center;"><a href="ROSConES2026.html"><img src="img/ROSConES2026.png" alt="" width="500"/></a></p>
+    <p style="text-align: center;">ROSCon España 2026</p>
   </div>
 
 {% include analytics.html %}

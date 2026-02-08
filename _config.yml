@@ -22,7 +22,7 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "ROSCon España 2025"
+title:       "ROSCon España 2026"
 keywords:    "ROSCon España, robot, robotics, Robot Operating System, ROS"
 description: "The annual ROS developer conference for Spain."
 source_link: "http://localhost:4000"
@@ -57,25 +57,25 @@ colors:
 
 
 # Output directory to match server directory
-destination: '2025'
-baseurl: '/2025'
+destination: '2026'
+baseurl: '/2026'
 
 
 # variables used throughout the site for consistency.
 # also with an eye for avoiding copy and paste issues porting forward.
 nth_roscon: 'twelveth'
-roscon_year: '2025'
+roscon_year: '2026'
 roscon_event: 'España'
-proposals_talks_start: '10 de julio de 2025'
-proposals_workshops_start: '10 de julio de 2025'
-proposals_deadline: '<del>3 de septiembre de 2025</del>'
-new_proposal_deadline: '10 de septiembre de 2025'
+proposals_talks_start: '21 de octubre de 2026'
+proposals_workshops_start: '22 de octubre de 2026'
+proposals_deadline: '<del> Próximamnete</del>'
+new_proposal_deadline: 'Próximamente'
 registration_start: 'Próximamente'
-statement_acceptance_talks: '22 de septiembre de 2025'
-statement_acceptance_workshops: '22 de septiembre de 2025'
+statement_acceptance_talks: 'Próximamente'
+statement_acceptance_workshops: 'Próximamente'
 
 statement_registration_open: 'Próximamente'
-early_registration_deadline: '1 de Septiembre de 2025'
-late_registration: '2 de Septiembre de 2025'
-event_date: '4 y 5 de noviembre de 2025'
-roscon_city: 'Barcelona'
+early_registration_deadline: 'Próximamente'
+late_registration: 'Próximamente'
+event_date: '21 y 22 de octubre de 2026'
+roscon_city: 'Valencia'
