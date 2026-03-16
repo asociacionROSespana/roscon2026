@@ -10,11 +10,11 @@ published: false
 # CfP ROSCon {{site.roscon_event}} {{site.roscon_year}} 
 
 
-La edición 2025 de ROSCon España se celebrará en Barcelona, los días 4 y 5 de noviembre, y promete ser el punto de encuentro para todos los apasionados por ROS (Robot Operating System) en nuestra comunidad hispanohablante. 
+La edición 2026 de ROSCon España se celebrará en Valencia, los días 27 y 28 de octubre, y promete ser el punto de encuentro para todos los apasionados por ROS (Robot Operating System) en nuestra comunidad hispanohablante.
 
 Al igual que en ediciones anteriores, el contenido lo crea la comunidad. Invitamos a desarrolladores, investigadores y empresas a compartir su trabajo, ideas y herramientas con el resto del ecosistema ROS. Este año buscamos propuestas para dos tipos de sesiones: 
-- **Workshops/Tutoriales** (martes 4 de noviembre): El primer día estará dedicado a workshops y sesiones prácticas, orientadas a experiencias participativas con fuerte componente técnico. Es una oportunidad para enseñar desde dentro: hands-on con herramientas, frameworks, paquetes, entornos o metodologías. ¡Más profundidad, más código, más interacción! 
-- **Charlas Técnicas** (miercoles 5 de noviembre): El segundo día estará centrado en presentaciones en vivo. Las charlas pueden tener una duración de 10, 20 o 30 minutos (más un breve turno de preguntas), y deben enfocarse en contenido técnico, casos de uso, lecciones aprendidas o desarrollos relevantes en el ecosistema ROS. 
+- **Workshops/Tutoriales** (martes 27 de octubre): El primer día estará dedicado a workshops y sesiones prácticas, orientadas a experiencias participativas con fuerte componente técnico. Es una oportunidad para enseñar desde dentro: hands-on con herramientas, frameworks, paquetes, entornos o metodologías. ¡Más profundidad, más código, más interacción!
+- **Charlas Técnicas** (miércoles 28 de octubre): El segundo día estará centrado en presentaciones en vivo. Las charlas pueden tener una duración de 10, 20 o 30 minutos (más un breve turno de preguntas), y deben enfocarse en contenido técnico, casos de uso, lecciones aprendidas o desarrollos relevantes en el ecosistema ROS.
 
 ## ¿Qué tipo de contenido buscamos? 
 
