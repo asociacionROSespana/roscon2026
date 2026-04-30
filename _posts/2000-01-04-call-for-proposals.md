@@ -4,7 +4,7 @@ bg: logo_blue2
 color: white
 fa-icon: bullhorn
 style: left
-published: false
+published: true
 ---
 
 # CfP ROSCon {{site.roscon_event}} {{site.roscon_year}} 
@@ -48,16 +48,16 @@ También se considerará el equilibrio entre tema y duración.
 
 * Título (máx. 70 caracteres) 
 * Presentador(es) (nombre, contacto, afiliación) 
-* Resumen (máx. 100 palabras, visible en el programa) 
+* Resumen (máx. 1000 caracteres, visible en el programa)
 * Descripción técnica: objetivos, estructura, público objetivo, recursos necesarios, etc. 
-* Fecha límite: {{site.proposals_deadline}}  {{site.new_proposal_deadline}} 
+* Fecha límite: {{site.proposals_workshops_deadline}}
 
 <!-- <center>
 <a href="https://forms.gle/5mdGtLXuq3f186r1A"><img src="./img/workshop.png" class="workshop-img" alt="Propuesta Workshop" style="width:30%"/></a>
 </center> -->
 
 <center>
-<a href="https://www.tfaforms.com/5186753"><img src="./img/workshop.png" class="workshop-img" alt="Propuesta Workshop"/></a>
+<a href="https://roscon2026.ai2.upv.es/"><img src="./img/workshop.png" class="workshop-img" alt="Propuesta Workshop"/></a>
 </center>
 <br>
 
@@ -66,22 +66,22 @@ También se considerará el equilibrio entre tema y duración.
 * Título (máx. 70 caracteres) 
 * Presentador(es) (nombre, afiliación) 
 * Duración deseada (10, 20 o 30 minutos) 
-* Resumen (máx. 100 palabras, visible en el programa) 
+* Resumen (máx. 1000 caracteres, visible en el programa)
 * Descripción técnica: objetivos, estructura, público objetivo, puntos clave 
-* Fecha límite: {{site.proposals_deadline}}   {{site.new_proposal_deadline}}
+* Fecha límite: {{site.proposals_talks_deadline}}
 
 <!-- <center>
 <a href="https://forms.gle/4pRWU676JufvrMkD9"><img src="./img/charla.png" class="charla-img" alt="Propuesta Charla" style="width:30%"/></a>
 </center> -->
 
 <center>
-<a href="https://www.tfaforms.com/5186770"><img src="./img/charla.png" class="charla-img" alt="Propuesta Charla"/></a>
+<a href="https://roscon2026.ai2.upv.es/"><img src="./img/charla.png" class="charla-img" alt="Propuesta Charla"/></a>
 </center>
 
 
 <br>
 
-Si tienes cualquier pregunta o comentario o ideas para {{site.roscon_event}} {{site.roscon_year}}, contacta con el <a href="mailto:rosconferencespain@gmail.com">comité ejecutivo</a>
+Si tienes cualquier pregunta o comentario o ideas para {{site.roscon_event}} {{site.roscon_year}}, contacta con el <a href="mailto:rosconspain26@upv.es">comité ejecutivo</a>
 
 {%comment%}
 ## Lightning Talks
