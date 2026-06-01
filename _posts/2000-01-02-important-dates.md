@@ -76,7 +76,7 @@ published: true
 
 <br> -->
 
-<!-- {% if site.early_registration_deadline %}
+{% if site.early_registration_deadline %}
 ### Fin del registro previo
 {{ site.early_registration_deadline }}
 {% endif %}
@@ -88,7 +88,7 @@ published: true
 {{ site.late_registration }}
 {% endif %}
 
-<br> -->
+<br>
 
 {% if site.statement_registration_open %}
 ### Apertura de registro
