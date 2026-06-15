@@ -4,7 +4,7 @@ bg: logo_blue2
 color: white
 fa-icon: bullhorn
 style: left
-published: true
+published: false
 ---
 
 # CfP ROSCon {{site.roscon_event}} {{site.roscon_year}} 
