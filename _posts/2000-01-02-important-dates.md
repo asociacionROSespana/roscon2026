@@ -78,14 +78,14 @@ published: true
 
 {% if site.early_registration_deadline %}
 ### Fin del registro previo
-{{ site.early_registration_deadline }}
+{{ site.early_registration_deadline }} | {{site.new_early_registration_deadline}}
 {% endif %}
 
 <br>
 
 {% if site.late_registration %}
 ### Inicio del registro general
-{{ site.late_registration }}
+{{ site.late_registration }} | {{site.new_late_registration}}
 {% endif %}
 
 <br>
